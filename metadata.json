@@ -1,0 +1,6 @@
+{
+  "name": "Employee Attendance & Leave Portal",
+  "description": "A modern HRMS frontend dashboard for attendance, shift rosters, and leave management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
